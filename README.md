@@ -25,7 +25,6 @@ Check out my repositories to see what I'm working on. Feel free to explore and c
 
 ## 🤝 Let's Connect
 
-- GitHub: [@danilankamo](https://github.com/danilankamo)
 - LinkedIn: [dani-jafer](https://www.linkedin.com/in/dani-jafer)
 - Email: danilankamo1@gmail.com
 
