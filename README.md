@@ -1,4 +1,4 @@
-# Hi, I'm Dani Jafer 👋
+# Hey, I'm Dani Jafer 👋
 
 Full-stack developer passionate about building software, websites, and mobile apps. I love collaborating on innovative ideas and creating solutions that make an impact.
 
@@ -45,4 +45,3 @@ If you have an interesting project or want to collaborate, feel free to reach ou
 
 ---
 
-Happy coding! 🚀
